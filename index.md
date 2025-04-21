@@ -5,7 +5,7 @@ title: Hi, I’m Suqin
 
 # 👋 Hi, I'm Suqin
 
-I'm a UX Researcher & Designer with a background in Human-Computer Interaction (HCI), now diving deep into Full Stack Engineering — blending empathy with logic to build thoughtful tech.
+I'm a UX Researcher & Designer with a background in Human-Computer Interaction (HCI), now diving deep into Full Stack Engineering — blending empathy with logic to build thoughtful tech. I have professional experience from London, UK, Singapore and Kuala Lumpur, Malaysia.
 
 ## 🛠️ Skills
 - UX Research, Design Thinking, UX Design, Product Management
