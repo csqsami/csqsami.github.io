@@ -22,5 +22,5 @@ I'm a UX Researcher & Designer with a background in Human-Computer Interaction (
 Currently prepping for a Full Stack role. Focused on building data + AI tools for real-world UX and CX problems.
 
 ## 📫 Contact
-Email me at [rsq.chua@example.com](mailto:rsq.chua@example.com)  
+Email me at [rsq.chua@gmail.com](mailto:rsq.chua@gmail.com)  
 Connect on [LinkedIn](https://www.linkedin.com/in/chuasuqin)
