@@ -5,10 +5,10 @@ title: Hi, I’m Suqin
 
 # 👋 Hi, I'm Suqin
 
-I'm a UX designer with a background in Human-Computer Interaction, now diving deep into full-stack engineering — blending empathy with logic to build thoughtful tech.
+I'm a UX Researcher & Designer with a background in Human-Computer Interaction (HCI), now diving deep into Full Stack Engineering — blending empathy with logic to build thoughtful tech.
 
 ## 🛠️ Skills
-- UX Research, Design Thinking
+- UX Research, Design Thinking, UX Design, Product Management
 - Python (pandas, loops, APIs)
 - SQL (DataLemur, joins, aggregations)
 - Google Colab, GitHub, Agile
@@ -19,7 +19,7 @@ I'm a UX designer with a background in Human-Computer Interaction, now diving de
 - [Visual survey insights](#)
 
 ## 🌱 Learning Journey
-Currently prepping for a full stack role. Focused on building data + AI tools for real-world CX problems.
+Currently prepping for a Full Stack role. Focused on building data + AI tools for real-world UX and CX problems.
 
 ## 📫 Contact
 Email me at [rsq.chua@example.com](mailto:rsq.chua@example.com)  
