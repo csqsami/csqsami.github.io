@@ -14,6 +14,8 @@ I'm a UX Researcher & Designer with a background in Human-Computer Interaction (
 - Google Colab, GitHub, Agile
 
 ## 📚 Projects
+- 👩‍💻 I have worked on [Harmony AI tool](https://github.com/harmonydata/hackathon), [NLP dashboard](http://dashboard.fastdatascience.com/) and [Clinical trial risk tool](https://clinical.fastdatascience.com/dashboard)
+- 🧠 I'm currently learning Python and SQL
 - [Colab: Python quiz app](https://colab.research.google.com/yourlink)
 - [SQL DataLemur Solutions](#)
 - [Visual survey insights](#)
